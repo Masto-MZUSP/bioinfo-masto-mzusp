@@ -4,6 +4,12 @@ Este repositório reúne tutoriais e materiais de apoio para análises e rotinas
 
 O objetivo é documentar procedimentos computacionais, facilitar o compartilhamento de conhecimento entre os integrantes do laboratório e promover a reprodutibilidade das análises.
 
+## Conteúdo
+
+| Arquivo | Versão | Objetivo |
+| --- | --- | --- |
+| [Montagem de Genoma de Novo com Dados Illumina](https://github.com/Masto-MZUSP/bioinfo-masto-mzusp/blob/main/bioinfo_MontagemGenomadeNovoIllumina_v1.0.pdf) | v1.0 | Este material foi escrito para alunos sem experiência prévia em montagem de genomas ou em uso de clusters de alto desempenho (HPC), com base em um estudo de caso com o genoma de _Thrichomys pachyurus_. Cada etapa explica o que o comando faz, por que ele é necessário, e o que observar no resultado antes de seguir adiante. |
+
 ## Como utilizar
 
 Os tutoriais estão organizados por tema ou tipo de análise. Consulte as instruções de cada material e verifique os requisitos, versões dos programas e dependências antes de executar os procedimentos.
